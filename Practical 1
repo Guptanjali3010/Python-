@@ -1,0 +1,8 @@
+1 letter =input ("input a letter of an alphabet:")
+2 if letter in ('a', 'e','i','o','u'):
+3.     Print ("it is a vowel")
+4. elif letter == 'y':
+5.   Print ("sometimes letter y is stand for vowel
+, Sometimes stand for consonant)
+else:
+     Print ("it is a consonant")
